@@ -6,3 +6,11 @@ The primary goal is to create a chatbot that not only responds to user queries b
 
 # Flow Chart
 ![alt text](https://github.com/arslanahmad90/Chatbot-With-Big-Five-Traits/blob/main/flowchart.png)
+
+
+# Run Instructions
+
+1. Download the Ipynb file.
+2. Upload it to your Google Drive.
+3. Open the file using  google colab and run every cell one by one.
+4. Make sure to add your openai key in the 4th cell.
